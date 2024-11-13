@@ -1,4 +1,3 @@
-==== .gitignore file =====
 # Django #
 *.log
 *.pot
@@ -113,4 +112,3 @@ GitHub.sublime-settings
 !.vscode/launch.json
 !.vscode/extensions.json
 .history
-======= END FILLE =====
